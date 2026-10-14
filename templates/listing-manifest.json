@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "item": {
+    "slug": "replace-me",
+    "title": "",
+    "physical_quantity": 1,
+    "source": "",
+    "photo_paths": []
+  },
+  "identification": {
+    "brand": "",
+    "model": "",
+    "reference": "",
+    "confidence": "unknown",
+    "evidence": []
+  },
+  "purchase": {
+    "merchant": "",
+    "date": "",
+    "price": null,
+    "currency": "EUR",
+    "evidence_private": ""
+  },
+  "condition": {
+    "label": "",
+    "verified_facts": [],
+    "known_defects": [],
+    "included": [],
+    "missing": []
+  },
+  "tests": {
+    "required": [],
+    "completed": [],
+    "blocked_reason": ""
+  },
+  "pricing": {
+    "lbc_comps": {
+      "searched_at": "",
+      "queries": [],
+      "include": "",
+      "exclude": "",
+      "n": 0,
+      "p25": null,
+      "median": null,
+      "p75": null,
+      "stale_30d_median": null,
+      "file": ""
+    },
+    "new_price_eur": null,
+    "rationale": "",
+    "no_comps_reason": "",
+    "above_p75_justification": ""
+  },
+  "listing": {
+    "category": "",
+    "title": "",
+    "body": "",
+    "price_eur": null,
+    "floor_eur": null,
+    "shipping": null,
+    "local_handoff": true,
+    "photo_order": []
+  },
+  "workflow": {
+    "status": "intake",
+    "coordinator_notes": "",
+    "intake_profile": ""
+  },
+  "publication": {
+    "listing_id": "",
+    "url": "",
+    "submitted_at": ""
+  },
+  "verification": {
+    "verified_at": "",
+    "fields": {},
+    "mismatches": []
+  }
+}

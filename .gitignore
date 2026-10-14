@@ -1,0 +1,12 @@
+# Real listings, photos, manifests and runtime state never belong in git
+items/
+state/
+tmp/
+*.png
+*.jpg
+*.jpeg
+*.webp
+.env
+__pycache__/
+*.pyc
+.venv/
